@@ -1,6 +1,7 @@
 {
     "editor.fontFamily": "'Fira Code'",
     "editor.fontLigatures": true,
+    "python.pythonPath": "c:\\xampp\\htdocs\\1022\\myv1\\Scripts\\python.exe",
 
 
 }
